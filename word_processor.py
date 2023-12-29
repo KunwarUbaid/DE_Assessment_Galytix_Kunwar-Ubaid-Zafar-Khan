@@ -1,5 +1,5 @@
-# File: phrase_similarity.py
-
+# File: word_processor.py
+#Task 3: Making functions using OOP principles
 import gensim
 from gensim.models import KeyedVectors
 import pandas as pd
